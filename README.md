@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/monzaj19"><img width="80%" alt="Hello, I'm Monika." src="/images/hello-text.png" /></a>
+</p>
 
 <!--
 **monzaj19/monzaj19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
