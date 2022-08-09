@@ -19,7 +19,7 @@
 
 <a href="https://github.com/monzaj19" target="_blank"><img src="https://img.shields.io/badge/BACKEND%20FRAMEWORK:-lightgrey.svg?style=for-the-badge"></a>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=spring,hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,maven)](https://skillicons.dev)
 
 <a href="https://github.com/monzaj19" target="_blank"><img src="https://img.shields.io/badge/DATABASES:-lightgrey.svg?style=for-the-badge"></a>
 <br>
