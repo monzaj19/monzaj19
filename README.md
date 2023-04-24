@@ -2,9 +2,8 @@
   <a href="https://github.com/monzaj19"><img width="60%" alt="Hello, I'm Monika." src="/images/hello-text.png" /></a>
 </p>
 
-### :blush: I am a student of Computer Science. I am interested in backend programming but also learning frontend is not difficult for me. Programming and new technologies are my hobby and my career goal is a job where I can develop my interests and skills. :blush:
+### :blush: I am interested in backend programming but also learning frontend is not difficult for me. Programming and new technologies are my hobby and my career goal is a job where I can develop my interests and skills. :blush:
 
-- 🔭 I’m currently working on <b>engineering work</b>
 - 🌱 I’m currently learning <b>Java and Spring Boot</b>
 - 📫 How to reach me: <b>monzaj21@gmail.com</b>
 - ⚡ Hobbies: technology, animals, sports
